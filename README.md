@@ -6,7 +6,8 @@ Di awal permainan, pemain diberikan uang awal sebesar 1000.
 Kemudian, pemain memasukkan jumlah uang yang dijadikan taruhan. Jumlah uang taruhan
 harus lebih kecil atau sama dengan jumlah uang yang dimiliki.
 Selain itu, pemain juga dapat menentukan apakah akan menghitung kartu As sebagai
-1 atau 11 pada ronde yang dimainkan.
+1 atau 11 pada ronde yang dimainkan. Kartu King, Queen, dan Jack dihitung 10 sedangkan
+sisanya sesuai dengan angkanya.
 
 Setelah semua input benar, program akan mengocok dek yang tersedia. Dek yang digunakan
 adalah 52 kartu remi biasa. Setiap pergantian ronde, kartu dikocok ulang. 
