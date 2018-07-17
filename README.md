@@ -19,10 +19,10 @@ Kita menang ketika total kartu kita lebih besar dari kartu dealer. Jika diawal k
 sudah melebihi 21 maka akan langsung kalah. Jika sama dengan 21 maka langsung menang.
 
 Saat bermain ada beberapa perintah yaitu :
--tambah	= untuk menambah kartu kita
--buka 	= untuk membuka kartu dealer
--keluar = untuk berhenti bermain
--main	= untuk main ke ronde berikutnya
+1.tambah	= untuk menambah kartu kita;
+2.buka 	= untuk membuka kartu dealer;
+3.keluar = untuk berhenti bermain;
+4.main	= untuk main ke ronde berikutnya;
 Pada saat bermain, diasumsikan untuk input "tambah" dan "buka" selalu benar, 
 sedangkan "main" dan "keluar" bisa salah karena terdapat algoritma verifikasi.
 
