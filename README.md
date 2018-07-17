@@ -29,6 +29,8 @@ sedangkan "main" dan "keluar" bisa salah karena terdapat algoritma verifikasi.
 Permainan berakhir ketika pemain menginput "keluar" atau sisa uang pemain kurang dari sama
 dengan nol.
 
+Permainan dapat dibuka melalui file BlackJack.exe, source code terdapat di BlackJack.pas
+
 
 Credit :
 Steve Andreas Immanuel
